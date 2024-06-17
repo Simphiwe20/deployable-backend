@@ -1,0 +1,17 @@
+{
+    "/registration-m": {
+        "post": {
+            "summary": "",
+            "description": "",
+            "consumes": [
+                "multipart/form-data"
+            ],
+            "produces": [],
+            "parameters": [],
+            "responses": {},
+            "tags": [
+                "migration"
+            ]
+        }
+    }
+}
